@@ -30,6 +30,11 @@
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-000000?style=for-the-badge&logo=wiremock&logoColor=white)
+![Project Reactor](https://img.shields.io/badge/Project%20Reactor-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Mongock](https://img.shields.io/badge/Mongock-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## ☁️ Cloud & DevOps
 

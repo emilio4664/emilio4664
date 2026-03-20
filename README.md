@@ -4,11 +4,9 @@
 
 - 🎓 Technical Degree in Computer Programming **Universidad Nacional de San Martín (UNSAM)** 
 - 🌐 Spanish **Native speaker** | English **Advanced 2nd Language (Cambridge First Certificate B2)** | German **basic**
-- 📬 emiliano4664@gmail.com
+- 🪰 Taming bugs enthusiast
 - 🎆 Oh you still reading this?
 - 🧉🥐 Medialuna and Mate enjoyer
-
-
 
 ## 🧑‍💻 Languages
 
